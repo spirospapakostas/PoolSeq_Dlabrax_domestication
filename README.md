@@ -31,3 +31,8 @@ filtering couplings with a high probability of functional coupling (PFC)
 and identifying interactions involving candidate genes. 
 It also performs simulations to compare observed and simulated enrichment levels of candidate genes.
 =>
+
+<=
+FunCoup_Analysis_Simulation.ipynb
+The Jupyter notebook of FunCoup_Analysis_Simulation.py
+=>
