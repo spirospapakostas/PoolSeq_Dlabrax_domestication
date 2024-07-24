@@ -22,6 +22,7 @@ by setting to zero the counts of nucleotides
 that fall below specified thresholds. 
 The thresholds are based on the total depth at each position, 
 allowing for more stringent criteria at higher depths.
+This script then proceeds with identifying and categorizing Single Nucleotide Polymorphisms (SNPs) into biallelic, monomorphic, and triallelic/multiallelic categories. 
 =>
 
 <=
